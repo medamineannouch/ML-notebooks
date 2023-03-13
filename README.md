@@ -1,6 +1,6 @@
 # My-Journey-in-Machine-Learning-
 
-This repository serves as a centralized location where I can share my findings and showcase my progress as I continue to learn and grow in machine learning.
+This repository serves as a centralized location where I will share my findings and showcase my progress as I continue to learn and grow in machine learning.
 
 Within this repository, you will find a collection of Jupyter Notebooks and Python scripts, each of which represents a different mini project that I have worked on. These projects cover a wide range of topics within machine learning, including data preprocessing, classification, regression, clustering, and more.
 
