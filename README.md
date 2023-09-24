@@ -1,4 +1,4 @@
-# My-Journey-in-Machine-Learning-
+# ML
 
 This repository serves as a centralized location where I will share my findings and showcase my progress as I continue to learn and grow in machine learning.
 
